@@ -27,11 +27,22 @@ See [Contributing](#contributing).
 
 Main is the list of the most important resources of the discipline, written by pioneers and important public figures.
 
-- [Staff Engineer](https://staffeng.com/) - Book + Website - Likely the first and one of the most important synthesis of the Staff Engineering discipline
+- [Staff Engineer](https://staffeng.com/) - 📚 Likely the first and one of the most important synthesis of the Staff Engineering discipline
+- [The Staff Engineer's path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) - 📚 A guide for staff-plus engineers (how to understand your role, manage your time, master strategic thinking, and set the standard for technical work)
+
+### Becoming a Staff Engineer
+
+- [Understanding the role of a Staff engineer](https://www.youtube.com/watch?v=7-ELnjgbS-o) - 🎬 How can you best define your own personal progression when your org doesn’t have a clear career ladder?
+- [The Secret of finding Impactful Projects to Land as Staff-plus Engineer role](https://www.youtube.com/watch?v=MO793FafKwQ) - 🎬 How to sharp your soft skills & find impactful projects as an engineer?
 
 ### Architecture
 
 ### Ways of Working
+
+- [What does a Staff Software Engineer at FAANG Do?](https://www.youtube.com/watch?v=qgKTof6rO2g) - 🎬 Interview of a Staff Software Engineer at Facebook
+- [Technical Leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw) - 🎬 A masterclass on Glue work as a Staff plus engineer
+
+### Other languages
 
 ## Contributing
 
