@@ -46,7 +46,7 @@ Main is the list of the most important resources of the discipline, written by p
 
 ### Other languages
 
-- [🇫 C'est une bonne situation ça, Staff Engineer?](https://www.youtube.com/watch?v=LgvJ3cuWBYQ) - 🎬 Introduction to Staff engineering in French
+- [🇫🇷 C'est une bonne situation ça, Staff Engineer?](https://www.youtube.com/watch?v=LgvJ3cuWBYQ) - 🎬 Introduction to Staff engineering in French
 
 ## Contributing
 
