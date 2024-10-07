@@ -47,6 +47,7 @@ Main is the list of the most important resources of the discipline, written by p
 ### Other languages
 
 - [🇫🇷 C'est une bonne situation ça, Staff Engineer?](https://www.youtube.com/watch?v=LgvJ3cuWBYQ) - 🎬 Introduction to Staff engineering in French
+- [🇫🇷Salaire à 6 chiffres dans la tech: les rôles que vous ne connaissez pas](https://www.youtube.com/watch?v=O_e1mN_YTt4) - 🎬 In-depth zoom on the role, the matter of generating impact, examples, salaries, career advices
 
 ## Contributing
 
