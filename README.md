@@ -41,6 +41,7 @@ Main is the list of the most important resources of the discipline, written by p
 
 - [What does a Staff Software Engineer at FAANG Do?](https://www.youtube.com/watch?v=qgKTof6rO2g) - 🎬 Interview of a Staff Software Engineer at Facebook
 - [Technical Leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw) - 🎬 A masterclass on Glue work as a Staff plus engineer
+- [How the top 1% Of Engineers Are Judged](https://www.youtube.com/watch?v=b6P83dtntKo) - 🎬 A Staff Engineers interviews Ethan Evans on his expectations on Staff-plus engineers (retired SVP of Eng. at Amazon)
 
 ### Other languages
 
