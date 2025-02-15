@@ -14,6 +14,9 @@ See [Contributing](#contributing).
   - [Main](#main)
 - [Architecture](#architecture)
 - [Ways of Working](#ways-of-working)
+- [Interviewing](#interviewing)
+- [Communities](#communities)
+- [Conferences](#conferences)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -44,12 +47,30 @@ Main is the list of the most important resources of the discipline, written by p
 - [Technical Leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw) - 🎬 A masterclass on Glue work as a Staff plus engineer
 - [How the top 1% Of Engineers Are Judged](https://www.youtube.com/watch?v=b6P83dtntKo) - 🎬 A Staff Engineers interviews Ethan Evans on his expectations on Staff-plus engineers (retired SVP of Eng. at Amazon)
 - [Common traits of top engineers](https://www.youtube.com/watch?v=Rzl3_5hcnwI) - 🎬 What common traits can we observe when looking at Staff Engineers?
+- [The mythical 10X programmer](https://antirez.com/news/112) - 📰 Blog post sharing opinion on programmer productivity & excellent ways of working
+
+### Interviewing
+
+- [How To Prep For Tech Interviews While Working Full-Time](https://www.youtube.com/watch?v=-LBUjaNEHcs) - 🎬 Staff-plus schedule can be overwhelming, preparing for interview too, tips on how to survive both combined
+- [LeetCode](https://leetcode.com/) - 💻 Can we really omit to list it?
 
 ### Other languages
 
 - [🇫🇷 C'est une bonne situation ça, Staff Engineer?](https://www.youtube.com/watch?v=LgvJ3cuWBYQ) - 🎬 Introduction to Staff engineering in French
-- [🇫🇷Salaire à 6 chiffres dans la tech: les rôles que vous ne connaissez pas](https://www.youtube.com/watch?v=O_e1mN_YTt4) - 🎬 In-depth zoom on the role, the matter of generating impact, examples, salaries, career advices
-- [🇫🇷Quand les fondateurs CTO partent et que les Principals Engineers arrivent](https://www.youtube.com/watch?v=-blkNUh4ghw) - 🎬 Get answers to the following questions: What's the life of a principal engineer? How to get there? How are they collaborating with CTOs?
+- [🇫🇷 Salaire à 6 chiffres dans la tech: les rôles que vous ne connaissez pas](https://www.youtube.com/watch?v=O_e1mN_YTt4) - 🎬 In-depth zoom on the role, the matter of generating impact, examples, salaries, career advices
+- [🇫🇷 Quand les fondateurs CTO partent et que les Principals Engineers arrivent](https://www.youtube.com/watch?v=-blkNUh4ghw) - 🎬 Get answers to the following questions: What's the life of a principal engineer? How to get there? How are they collaborating with CTOs?
+
+### Communities
+
+- [🇫🇷 Staff42](https://staff42.org) - The French Staff Engineer community
+- [🇫🇷 Rands leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) - The famous Rands leadership Slack, created several years ago !
+- [🌍  Reddit](https://www.reddit.com/r/staffengineer/) - The Staff Engineer subreddit
+
+### Conferences
+
+- [🇬🇧 LDX3](https://leaddev.com/leaddev-london/) - 👩 Staff Plus London became LDX3
+- [🇺🇸 LeadDev New York](https://leaddev.com/leaddev-new-york/) - 👩 2 days event for staff, principal and distinguished engineers in NYC
+- [🇩🇪 LeadDev Berlin](https://leaddev.com/leaddev-berlin/) - 👩 2 days event for staff, principal and distinguished engineers in Berlin
 
 ## Contributing
 
