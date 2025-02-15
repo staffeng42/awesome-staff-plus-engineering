@@ -34,6 +34,7 @@ Main is the list of the most important resources of the discipline, written by p
 
 - [Understanding the role of a Staff engineer](https://www.youtube.com/watch?v=7-ELnjgbS-o) - 🎬 How can you best define your own personal progression when your org doesn’t have a clear career ladder?
 - [The Secret of finding Impactful Projects to Land as Staff-plus Engineer role](https://www.youtube.com/watch?v=MO793FafKwQ) - 🎬 How to sharp your soft skills & find impactful projects as an engineer?
+- [Three Things Blocking Your Promotion to Staff/Principal Engineer (from an Amazon Principal Engineer)](https://www.youtube.com/watch?v=xV6j2Dxvoxw) - 🎬 Get promoted faster to Staff/Principal Engineer thanks to some excellent advices
 
 ### Architecture
 
