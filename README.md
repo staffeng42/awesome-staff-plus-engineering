@@ -62,6 +62,7 @@ Main is the list of the most important resources of the discipline, written by p
 
 - [How To Prep For Tech Interviews While Working Full-Time](https://www.youtube.com/watch?v=-LBUjaNEHcs) - 🎬 Staff-plus schedule can be overwhelming, preparing for interview too, tips on how to survive both combined
 - [awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - 👩‍💻Awesome tips and resources to prepare for Behavioral interviews
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - 👩‍💻 A curated technical interview preparation materials for busy engineers
 - [LeetCode](https://leetcode.com/) - 💻 Can we really omit to list it?
 
 ### Other languages
