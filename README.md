@@ -57,13 +57,19 @@ Main is the list of the most important resources of the discipline, written by p
 ### Other languages
 
 - [🇫🇷 C'est une bonne situation ça, Staff Engineer?](https://www.youtube.com/watch?v=LgvJ3cuWBYQ) - 🎬 Introduction to Staff engineering in French
-- [🇫🇷 Salaire à 6 chiffres dans la tech: les rôles que vous ne connaissez pas](https://www.youtube.com/watch?v=O_e1mN_YTt4) - 🎬 In-depth zoom on the role, the matter of generating impact, examples, salaries, career advices
-- [🇫🇷 Quand les fondateurs CTO partent et que les Principals Engineers arrivent](https://www.youtube.com/watch?v=-blkNUh4ghw) - 🎬 Get answers to the following questions: What's the life of a principal engineer? How to get there? How are they collaborating with CTOs?
+- [🇫🇷Salaire à 6 chiffres dans la tech: les rôles que vous ne connaissez pas](https://www.youtube.com/watch?v=O_e1mN_YTt4) - 🎬 In-depth zoom on the role, the matter of generating impact, examples, salaries, career advices
+- [🇫🇷Quand les fondateurs CTO partent et que les Principals Engineers arrivent](https://www.youtube.com/watch?v=-blkNUh4ghw) - 🎬 Get answers to the following questions: What's the life of a principal engineer? How to get there? How are they collaborating with CTOs?
 
 ### Communities
 
 - [🇫🇷 Staff42](https://staff42.org) - The French Staff Engineer community
-- [🇫🇷 Rands leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) - The famous Rands leadership Slack, created several years ago !
+- [🇩🇪Berlin Software Engineering Leadership Meetup Group](https://www.meetup.com/berlin-software-engineering-leadership-meetup-group/) - A meetup to network with other engineering leaders: Tech leads, Engineering managers, Staff engineers, etc
+- [🇪🇸LeadDev Barcelona](https://www.meetup.com/leaddev-barcelona-meetup/) - The Barcelona LeadDev community
+- [🇵🇱Engineering Leadership Warsaw](https://www.meetup.com/engineering-leadership-warsaw/) - A dynamic Engineering Leadership community in Warsaw
+- [🇺🇸LeadDev Meetup - New York](https://www.meetup.com/leaddev-meetup-newyork/) - The NYC LeadDev community
+- [🇺🇸LeadDev San Francisco](https://www.meetup.com/san-francisco-engineering-leadership-community/) - The SF LeadDev community
+- [🇺🇸LeadDev Seattle](https://www.meetup.com/leaddev-seattle-meetup/) - The Seattle LeadDev community
+- [🌍  Rands leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) - The famous Rands leadership Slack, created several years ago !
 - [🌍  Reddit](https://www.reddit.com/r/staffengineer/) - The Staff Engineer subreddit
 
 ### Conferences
