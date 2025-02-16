@@ -2,9 +2,13 @@
 
 [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome)
 
-A Staff Engineer is a senior technical leader responsible for guiding complex projects, mentoring engineers, and influencing the technical direction of a company, often bridging the gap between hands-on engineering and strategic decision-making.
+A curated list of awesome Staff-plus & leadership engineering resources.
 
-See [Contributing](#contributing).
+**What is a Staff Engineer?**
+
+> A Staff Engineer is a senior technical leader responsible for guiding complex projects, mentoring engineers, and influencing the technical direction of a company, often bridging the gap between hands-on engineering and strategic decision-making.
+
+See [Contributing](#contributing). Contributions are welcome!
 
 --------------------
 
