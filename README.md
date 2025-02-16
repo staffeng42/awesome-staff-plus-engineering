@@ -18,6 +18,7 @@ See [Contributing](#contributing). Contributions are welcome!
   - [Main](#main)
 - [Architecture](#architecture)
 - [Ways of Working](#ways-of-working)
+- [Leadership and Management](#leadership-and-management)
 - [Interviewing](#interviewing)
 - [Communities](#communities)
 - [Conferences](#conferences)
@@ -52,6 +53,10 @@ Main is the list of the most important resources of the discipline, written by p
 - [How the top 1% Of Engineers Are Judged](https://www.youtube.com/watch?v=b6P83dtntKo) - 🎬 A Staff Engineers interviews Ethan Evans on his expectations on Staff-plus engineers (retired SVP of Eng. at Amazon)
 - [Common traits of top engineers](https://www.youtube.com/watch?v=Rzl3_5hcnwI) - 🎬 What common traits can we observe when looking at Staff Engineers?
 - [The mythical 10X programmer](https://antirez.com/news/112) - 📰 Blog post sharing opinion on programmer productivity & excellent ways of working
+
+### Leadership and Management
+
+- [The Engineer/Manager Pendulum](https://www.youtube.com/watch?v=2BkdAgCYHdc) - 🎬 The most powerful senior engineering leaders tend to be people who have done both, swinging back and forth between management and engineering
 
 ### Interviewing
 
