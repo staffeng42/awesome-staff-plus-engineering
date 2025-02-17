@@ -53,10 +53,15 @@ Main is the list of the most important resources of the discipline, written by p
 - [How the top 1% Of Engineers Are Judged](https://www.youtube.com/watch?v=b6P83dtntKo) - 🎬 A Staff Engineers interviews Ethan Evans on his expectations on Staff-plus engineers (retired SVP of Eng. at Amazon)
 - [Common traits of top engineers](https://www.youtube.com/watch?v=Rzl3_5hcnwI) - 🎬 What common traits can we observe when looking at Staff Engineers?
 - [The mythical 10X programmer](https://antirez.com/news/112) - 📰 Blog post sharing opinion on programmer productivity & excellent ways of working
+- [How to lead without authority](https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4) - 📰 (long) Blog post guiding though influencing patterns with practical examples
+- [Why are your ideas being rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40) - 📰 Opinionated blog post helping to reflect on the frustration of having your ideas rejected
+- [Say the hard thing](https://randsinrepose.com/archives/say-the-hard-thing/) - 📰 Feedback is hard, but it's a key part of the job
+- [Master the art of influence and persuasion](https://review.firstround.com/master-the-art-of-influence-persuasion-as-a-skill-and-habit/) - 📚 Successful influence is persuasion, a full guide to get there
 
 ### Leadership and Management
 
 - [The Engineer/Manager Pendulum](https://www.youtube.com/watch?v=2BkdAgCYHdc) - 🎬 The most powerful senior engineering leaders tend to be people who have done both, swinging back and forth between management and engineering
+- [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) - 📚 Core Amazon principles for discussing and deciding the best way to solve a problem in everyday life.
 
 ### Interviewing
 
