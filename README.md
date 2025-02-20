@@ -62,6 +62,8 @@ Main is the list of the most important resources of the discipline, written by p
 
 - [The Engineer/Manager Pendulum](https://www.youtube.com/watch?v=2BkdAgCYHdc) - 🎬 The most powerful senior engineering leaders tend to be people who have done both, swinging back and forth between management and engineering
 - [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) - 📚 Core Amazon principles for discussing and deciding the best way to solve a problem in everyday life.
+- [Operating as a Staff Engineer in a leaderless scope](https://www.youtube.com/watch?v=_v_9BWPTExI) - 🎬
+As a Staff Engineer, you may find yourself in a large scope where a manager, Director or VP of Engineering, is missing, needing to fill the gaps.
 
 ### Interviewing
 
