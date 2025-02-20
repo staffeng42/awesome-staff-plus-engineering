@@ -52,6 +52,7 @@ Main is the list of the most important resources of the discipline, written by p
 - [Technical Leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw) - 🎬 A masterclass on Glue work as a Staff plus engineer
 - [How the top 1% Of Engineers Are Judged](https://www.youtube.com/watch?v=b6P83dtntKo) - 🎬 A Staff Engineers interviews Ethan Evans on his expectations on Staff-plus engineers (retired SVP of Eng. at Amazon)
 - [Common traits of top engineers](https://www.youtube.com/watch?v=Rzl3_5hcnwI) - 🎬 What common traits can we observe when looking at Staff Engineers?
+- [Principal Engineer Roles Framework](https://www.linkedin.com/pulse/principal-engineer-roles-framework-mai-lan-tomsen-bukovec-142df) - 📰 Blog post describing the framework used at Amazon to optimize the impact of their Principal Engineers (by Amazon's VP Technology)
 - [The mythical 10X programmer](https://antirez.com/news/112) - 📰 Blog post sharing opinion on programmer productivity & excellent ways of working
 - [How to lead without authority](https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4) - 📰 (long) Blog post guiding though influencing patterns with practical examples
 - [Why are your ideas being rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40) - 📰 Opinionated blog post helping to reflect on the frustration of having your ideas rejected
