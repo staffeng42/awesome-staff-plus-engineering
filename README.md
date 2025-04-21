@@ -47,6 +47,9 @@ Main is the list of the most important resources of the discipline, written by p
 
 ### Architecture
 
+- **[Designing Data-Intensive Applications](https://dataintensive.net/)** - 📚 A deep dive into building scalable, maintainable, and robust systems, a key skill for staff engineers.
+- **[Software Architecture Patterns](https://martinfowler.com/)** - 📰 Articles and resources by Martin Fowler on software architecture and design.
+
 ### Ways of Working
 
 - [What does a Staff Software Engineer at FAANG Do?](https://www.youtube.com/watch?v=qgKTof6rO2g) - 🎬 Interview of a Staff Software Engineer at Facebook
@@ -59,6 +62,8 @@ Main is the list of the most important resources of the discipline, written by p
 - [Why are your ideas being rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40) - 📰 Opinionated blog post helping to reflect on the frustration of having your ideas rejected
 - [Say the hard thing](https://randsinrepose.com/archives/say-the-hard-thing/) - 📰 Feedback is hard, but it's a key part of the job
 - [Master the art of influence and persuasion](https://review.firstround.com/master-the-art-of-influence-persuasion-as-a-skill-and-habit/) - 📚 Successful influence is persuasion, a full guide to get there
+- **[The Art of Leadership: Small Things, Done Well](https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1680507249)** - 📚 A book on leadership practices that align with the responsibilities of staff engineers.
+- **[The Glue Work Guide](https://noidea.dog/glue)** - 📰 A blog post on the often-overlooked "glue work" that staff engineers excel at.
 
 ### Leadership and Management
 
@@ -66,6 +71,10 @@ Main is the list of the most important resources of the discipline, written by p
 - [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) - 📚 Core Amazon principles for discussing and deciding the best way to solve a problem in everyday life.
 - [Operating as a Staff Engineer in a leaderless scope](https://www.youtube.com/watch?v=_v_9BWPTExI) - 🎬
 As a Staff Engineer, you may find yourself in a large scope where a manager, Director or VP of Engineering, is missing, needing to fill the gaps.
+- **[The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)** - 📚 A guide to navigating the transition from individual contributor to leadership roles, with insights relevant to staff engineers.
+- **[An Elegant Puzzle: Systems of Engineering Management](https://www.elegantpuzzle.com/)** - 📚 A book that explores the systems and processes behind effective engineering leadership.
+- **[Radical Candor](https://www.radicalcandor.com/)** - 📚 A framework for giving and receiving feedback effectively, a critical skill for staff engineers.
+- **[Turn the Ship Around!](https://www.davidmarquet.com/turn-the-ship-around)** - 📚 A book on creating leadership at every level, relevant for staff engineers leading without authority.
 
 ### Interviewing
 
@@ -73,6 +82,8 @@ As a Staff Engineer, you may find yourself in a large scope where a manager, Dir
 - [awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - 👩‍💻Awesome tips and resources to prepare for Behavioral interviews
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - 👩‍💻 A curated technical interview preparation materials for busy engineers
 - [LeetCode](https://leetcode.com/) - 💻 Can we really omit to list it?
+- **[Levels.fyi](https://www.levels.fyi/)** - 💻 A resource for understanding compensation and leveling across companies, useful for staff engineers preparing for interviews.
+- **[Interviewing.io](https://interviewing.io/)** - 💻 A platform for practicing technical interviews anonymously.
 
 ### Other languages
 
@@ -86,6 +97,7 @@ As a Staff Engineer, you may find yourself in a large scope where a manager, Dir
 ### Communities
 
 - [🇫🇷 Staff42](https://staff42.org) - The French Staff Engineer community
+- **[Engineering Leadership Slack](https://eng-leadership.com/)** - 🌍 A Slack community for engineering leaders, including staff engineers.
 - [🇩🇪Berlin Software Engineering Leadership Meetup Group](https://www.meetup.com/berlin-software-engineering-leadership-meetup-group/) - A meetup to network with other engineering leaders: Tech leads, Engineering managers, Staff engineers, etc
 - [🇪🇸LeadDev Barcelona](https://www.meetup.com/leaddev-barcelona-meetup/) - The Barcelona LeadDev community
 - [🇵🇱Engineering Leadership Warsaw](https://www.meetup.com/engineering-leadership-warsaw/) - A dynamic Engineering Leadership community in Warsaw
