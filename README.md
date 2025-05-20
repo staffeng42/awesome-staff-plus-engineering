@@ -80,6 +80,7 @@ As a Staff Engineer, you may find yourself in a large scope where a manager, Dir
 - [🇫🇷Quand les fondateurs CTO partent et que les Principals Engineers arrivent](https://www.youtube.com/watch?v=-blkNUh4ghw) - 🎬 Get answers to the following questions: What's the life of a principal engineer? How to get there? How are they collaborating with CTOs?
 - [🇫🇷Devenir Staff Engineer : comment et pourquoi ?](https://touilleur-express.fr/2022/07/17/devenir-staff-engineer/) - 📰 Article relating the transition to staff engineer from a Principal Engineer @Back Market perspective
 - [🇫🇷Démystifier la complexité des organisations tech pour mieux les faire évoluer](https://smartlink.ausha.co/developer-experience/simon-maurin) - 🎧 A podcast mentioning multiple aspect of IC role and impact on the organization
+- [🇫🇷Staff Engineer : Les défis, les galères, et comment les surmonter](https://www.youtube.com/watch?v=EiADjypQoY0) - 🎬 A practical talk where experienced staff-plus share real stories and concrete tips to empower fellow Staffs
 
 ### Communities
 
