@@ -14,16 +14,21 @@ See [Contributing](#contributing). Contributions are welcome!
 
 ## Table of contents
 
-- [Theory](#theory)
-  - [Main](#main)
-- [Architecture](#architecture)
-- [Ways of Working](#ways-of-working)
-- [Leadership and Management](#leadership-and-management)
-- [Interviewing](#interviewing)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Contributing](#contributing)
-- [License](#license)
+- [Awesome-Staff-Plus-Engineering](#awesome-staff-plus-engineering)
+  - [Table of contents](#table-of-contents)
+  - [Theory](#theory)
+    - [Main](#main)
+    - [Becoming a Staff Engineer](#becoming-a-staff-engineer)
+    - [Architecture](#architecture)
+    - [Ways of Working](#ways-of-working)
+    - [Leadership and Management](#leadership-and-management)
+    - [Interviewing](#interviewing)
+    - [Other languages](#other-languages)
+    - [Communities](#communities)
+    - [Conferences](#conferences)
+    - [Related Awesome Lists](#related-awesome-lists)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 --------------------
 
@@ -112,6 +117,9 @@ As a Staff Engineer, you may find yourself in a large scope where a manager, Dir
 - [🇬🇧 LDX3](https://leaddev.com/leaddev-london/) - 👩 Staff Plus London became LDX3
 - [🇺🇸 LeadDev New York](https://leaddev.com/leaddev-new-york/) - 👩 2 days event for staff, principal and distinguished engineers in NYC
 - [🇩🇪 LeadDev Berlin](https://leaddev.com/leaddev-berlin/) - 👩 2 days event for staff, principal and distinguished engineers in Berlin
+
+### Related Awesome Lists
+- [Awesome CTO](https://github.com/kuchin/awesome-cto) - Everything you need to be an awesome CTO !
 
 ## Contributing
 
